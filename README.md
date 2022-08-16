@@ -1,0 +1,2 @@
+O que é o algoritmo: algoritmo é uma serie de instruções criada para resolver problemas ou executar funçoes com instrucoes que sejam simples e corretas.
+Para criar um algoritmo que funcione de forma exata o melhor método ainda usado é o fluxograma que consiste em uma representação visual do algoritmo, um passo a passo com as etapas do processo. 
